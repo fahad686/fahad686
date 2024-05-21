@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **Irfanjpj19@gmail.com**
+- 📫 How to reach me **fahadofficial686@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
