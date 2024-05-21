@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [Fahad686](https://github.com/fahad686)
 
-- 📝 I regularly write articles on [Fahad]((https://medium.com/@fahadofficial686)
+- 📝 I regularly write articles on [Fahad Ali]([https://github.com/fahad686](https://medium.com/@fahadofficial686))
 
 - 💬 Ask me about **Flutter**
 
