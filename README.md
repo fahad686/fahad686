@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [Mehndi Magic](https://play.google.com/store/apps/details?id=com.mehndimagic.app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/IrfanAbdulghaffar](https://github.com/IrfanAbdulghaffar)
+- 👨‍💻 All of my projects are available at [https://github.com/IrfanAbdulghaffar]([https://github.com/IrfanAbdulghaffar](https://github.com/fahad686))
 
 - 📝 I regularly write articles on [https://medium.com/@irfanjpj19](https://medium.com/@irfanjpj19)
 
