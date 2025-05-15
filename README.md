@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanabdulghaffar" alt="irfanabdulghaffar" /></a> </p> -->
 
-- 🔭 I’m currently working on [Wedding kards](https://play.google.com/store/apps/details?id=com.schuja.weddingcard)
+- 🔭 I’m currently working on [Fine Gold Bullion](https://play.google.com/store/apps/details?id=com.schuja.finegold&hl=en)
 
-- 🌱 I’m currently learning **Operating System, ProGit**
+- 🌱 I’m currently learning **Bloc, Gemini, WebRTC, FlutterCore**
 
 - 👯 I’m looking to collaborate on [Mehndi Magic](https://play.google.com/store/apps/details?id=com.mehndimagic.app)
 
