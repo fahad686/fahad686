@@ -76,12 +76,16 @@ Production Flutter app on Google Play.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahad686&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=fahad686&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub streak" />
+  <a href="https://github.com/fahad686">
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=fahad686&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9" alt="GitHub stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="165" src="https://streak-stats.demolab.com/?user=fahad686&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad686&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fahad686&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 ---
