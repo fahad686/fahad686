@@ -44,8 +44,8 @@ Production Flutter app on Google Play.
 
 - 🔭 **Working on** [Printa](https://github.com/fahad686/printa) — receipt printing, templates, QR/barcode, NFC & PDF for POS devices
 - 🚀 **Shipped** [Fine Gold Bullion](https://play.google.com/store/apps/details?id=com.schuja.finegold&hl=en) on Google Play
+- 🌱 **Learning** AI/ML (NAVTTC), Gemini, WebRTC, Flutter Core
 - 👯 **Open to collaborate on** [Mehndi Magic](https://play.google.com/store/apps/details?id=com.mehndimagic.app)
-- 🌱 **Learning** Bloc, Gemini, WebRTC, Flutter Core
 - 📝 **Writing on** [Medium — FahadAli](https://medium.com/@fahadofficial686)
 - 💬 **Ask me about** Flutter, Android POS integrations, thermal printing, NFC
 - 📫 **Email** fahadofficial686@gmail.com
@@ -55,7 +55,18 @@ Production Flutter app on Google Play.
 ## 🛠 Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,firebase,figma,git,python,django,mysql,postman&perline=6" alt="Tech stack" />
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 </p>
 
 **Printa stack:** Flutter · Riverpod · Hive · Go Router · PDF · NFC Manager · Mobile Scanner · Native MethodChannels (Sunmi)
@@ -65,12 +76,12 @@ Production Flutter app on Google Play.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahad686&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.daily.dev/?user=fahad686&theme=tokyonight&hide_border=true&background=0d1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahad686&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=fahad686&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad686&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad686&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B00&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" />
 </p>
 
 ---
@@ -81,14 +92,7 @@ Production Flutter app on Google Play.
 |---------|-------------|
 | [**Printa**](https://github.com/fahad686/printa) | POS receipt app — templates, QR/barcode, NFC, PDF, Sunmi thermal printing |
 | [**wa_toolkit**](https://github.com/fahad686/wa_toolkit) | WhatsApp status saver & PIN-protected vault |
-| [**flutter_bloc_stgmt**](https://github.com/fahad686/flutter_bloc_stgmt) | Bloc state management learning series |
-
----
-
-## 📝 Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+| [**ai-ml-navttc-course**](https://github.com/fahad686/ai-ml-navttc-course) | NAVTTC AI/ML course — Python, notebooks, ML algorithms & real projects |
 
 ---
 
